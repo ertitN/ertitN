@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on programming
-- 🌱 I’m currently learning Java & Spring Boot
+- 🌱 I’m currently learning Java & Spring Boot & React
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 
